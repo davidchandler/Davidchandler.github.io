@@ -4,7 +4,7 @@
   <title><![CDATA[David Chandler's Ruby Adventure]]></title>
   <link href="http://davidchandler.github.io/atom.xml" rel="self"/>
   <link href="http://davidchandler.github.io/"/>
-  <updated>2013-10-07T21:15:45-07:00</updated>
+  <updated>2013-10-08T21:37:38-07:00</updated>
   <id>http://davidchandler.github.io/</id>
   <author>
     <name><![CDATA[David Chandler]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby on Rails Class]]></title>
+    <link href="http://davidchandler.github.io/blog/2013/10/08/ruby-on-rails-class/"/>
+    <updated>2013-10-08T21:25:00-07:00</updated>
+    <id>http://davidchandler.github.io/blog/2013/10/08/ruby-on-rails-class</id>
+    <content type="html"><![CDATA[<p>Last night was my first Ruby on Rails class. We learned about settupe up Octopress and
+using Rubymine to create this neat little blog.
+The class will keep us very busy with lots of homework ! Currently, our homework assignments
+consist of going through an online Ruby tutorial.
+Stay tuned for further updates&hellip;.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This is Davids second post]]></title>
