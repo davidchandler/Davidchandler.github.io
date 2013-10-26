@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://davidchandler.github.io/blog/2013/10/07/this-is-davids-first-post/</loc>
-        <lastmod>2013-10-07T21:15:44-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://davidchandler.github.io/blog/2013/10/07/this-is-davids-second-post/</loc>
-        <lastmod>2013-10-07T20:41:56-07:00</lastmod>
-    </url>
-    <url>
         <loc>http://davidchandler.github.io/blog/2013/10/08/ruby-on-rails-class/</loc>
-        <lastmod>2013-10-08T21:37:19-07:00</lastmod>
+        <lastmod>2013-10-08T22:37:19-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://davidchandler.github.io/blog/2013/10/14/git-and-github/</loc>
+        <lastmod>2013-10-14T01:16:52-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://davidchandler.github.io/blog/2013/10/26/koans/</loc>
+        <lastmod>2013-10-26T09:59:37-06:00</lastmod>
     </url>
     <url>
         <loc>http://davidchandler.github.io/blog/archives/</loc>
-        <lastmod>2013-10-08T21:37:19-07:00</lastmod>
+        <lastmod>2013-10-26T09:59:37-06:00</lastmod>
     </url>
     <url>
         <loc>http://davidchandler.github.io/</loc>
-        <lastmod>2013-10-08T21:37:19-07:00</lastmod>
+        <lastmod>2013-10-26T09:59:37-06:00</lastmod>
     </url>
     <url>
         <loc>http://davidchandler.github.io/robots.txt</loc>
-        <lastmod>2013-10-07T20:30:21-07:00</lastmod>
+        <lastmod>2013-10-07T21:30:21-06:00</lastmod>
     </url>
 </urlset>
